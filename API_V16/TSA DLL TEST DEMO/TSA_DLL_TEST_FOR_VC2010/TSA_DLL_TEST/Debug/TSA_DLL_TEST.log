@@ -1,0 +1,29 @@
+﻿生成启动时间为 2014-7-15 9:21:57。
+     1>项目“D:\JOB\SSS\6-20\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_VC2010\TSA_DLL_TEST\TSA_DLL_TEST.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\TSA_DLL_TEST.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\TSA_DLL_TEST.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\TSA_DLL_TEST.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt TSA_DLL_TEST.cpp
+         TSA_DLL_TEST.cpp
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\TSA_DLL_TEST.exe.embed.manifest.res" Debug\TSA_DLL_TEST_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\JOB\SSS\6-20\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_VC2010\Debug\TSA_DLL_TEST.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\TSA_DLL_TEST.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\JOB\SSS\6-20\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_VC2010\Debug\TSA_DLL_TEST.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\JOB\SSS\6-20\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_VC2010\Debug\TSA_DLL_TEST.lib" /MACHINE:X86 Debug\TSA_DLL_TEST.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\TSA_DLL_TEST.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\TSA_DLL_TEST.exe.embed.manifest" /manifest Debug\TSA_DLL_TEST.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         TSA_DLL_TEST.vcxproj -> D:\JOB\SSS\6-20\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_VC2010\Debug\TSA_DLL_TEST.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\TSA_DLL_TEST.unsuccessfulbuild”。
+         正在对“Debug\TSA_DLL_TEST.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\JOB\SSS\6-20\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_VC2010\TSA_DLL_TEST\TSA_DLL_TEST.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.68
