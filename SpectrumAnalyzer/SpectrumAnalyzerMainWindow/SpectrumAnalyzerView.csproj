@@ -65,6 +65,9 @@
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>SettingsWindow.Designer.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="SettingsWindow.resx">
+      <DependentUpon>SettingsWindow.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

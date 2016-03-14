@@ -49,7 +49,6 @@
 			// 
 			this.SelectFolderDialog.Description = "Select a folder for the output files";
 			this.SelectFolderDialog.RootFolder = System.Environment.SpecialFolder.MyComputer;
-			//this.SelectFolderDialog.HelpRequest += new System.EventHandler(this.SelectFolderDialogHelpRequest);
 			// 
 			// MainForm
 			// 
@@ -57,7 +56,7 @@
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(697, 319);
 			this.Controls.Add(this.splitContainer1);
-			this.Name = "SettingsWindow";
+			this.Name = "MainForm";
 			this.Text = "USB Spectrum Analyzer";
 			((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
 			this.splitContainer1.ResumeLayout(false);
