@@ -34,3 +34,11 @@ D:\JOB\SSS\TSA DLL\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_C#2010\TSA_DLL_TEST\obj\x8
 D:\JOB\SSS\TSA DLL\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_C#2010\TSA_DLL_TEST\obj\x86\Debug\TSA_DLL_TEST.Properties.Resources.resources
 D:\JOB\SSS\TSA DLL\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_C#2010\TSA_DLL_TEST\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\JOB\SSS\TSA DLL\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_C#2010\TSA_DLL_TEST\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\API_V16\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_C#2010\TSA_DLL_TEST\bin\Debug\TSA_DLL_TEST.exe
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\API_V16\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_C#2010\TSA_DLL_TEST\bin\Debug\TSA_DLL_TEST.pdb
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\API_V16\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_C#2010\TSA_DLL_TEST\obj\x86\Debug\TSA_DLL_TEST.frmTEST.resources
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\API_V16\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_C#2010\TSA_DLL_TEST\obj\x86\Debug\TSA_DLL_TEST.Properties.Resources.resources
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\API_V16\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_C#2010\TSA_DLL_TEST\obj\x86\Debug\TSA_DLL_TEST.csproj.GenerateResource.Cache
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\API_V16\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_C#2010\TSA_DLL_TEST\obj\x86\Debug\TSA_DLL_TEST.exe
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\API_V16\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_C#2010\TSA_DLL_TEST\obj\x86\Debug\TSA_DLL_TEST.pdb
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\API_V16\TSA DLL TEST DEMO\TSA_DLL_TEST_FOR_C#2010\TSA_DLL_TEST\obj\x86\Debug\TSA_DLL_TEST.csprojResolveAssemblyReference.cache

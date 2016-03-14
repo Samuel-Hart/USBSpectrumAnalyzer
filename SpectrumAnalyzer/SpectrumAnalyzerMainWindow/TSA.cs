@@ -3,7 +3,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 namespace TSA_DLL_TEST
 {
-    public class TSA
+    public static class TSA
     {
         [DllImport("TSA.dll", CharSet = CharSet.Auto, CallingConvention = CallingConvention.StdCall)]
         public extern static IntPtr Get_Hid_Handle();

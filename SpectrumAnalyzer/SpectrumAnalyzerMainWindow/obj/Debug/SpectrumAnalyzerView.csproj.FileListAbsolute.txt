@@ -1,0 +1,8 @@
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzerMainWindow\obj\Debug\SpectrumAnalyzerView.csprojResolveAssemblyReference.cache
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzerMainWindow\obj\Debug\SpectrumAnalyzerMainWindow.MainForm.resources
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzerMainWindow\obj\Debug\SpectrumAnalyzerView.csproj.GenerateResource.Cache
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzerMainWindow\bin\Debug\SpectrumAnalyzerView.exe.config
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzerMainWindow\bin\Debug\SpectrumAnalyzerView.exe
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzerMainWindow\bin\Debug\SpectrumAnalyzerView.pdb
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzerMainWindow\obj\Debug\SpectrumAnalyzerView.exe
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzerMainWindow\obj\Debug\SpectrumAnalyzerView.pdb

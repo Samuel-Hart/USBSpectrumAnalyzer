@@ -1,0 +1,11 @@
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzer\bin\Debug\SpectrumAnalyzer.exe.config
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzer\bin\Debug\SpectrumAnalyzer.exe
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzer\bin\Debug\SpectrumAnalyzer.pdb
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzer\obj\Debug\SpectrumAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzer\obj\Debug\Window1.baml
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzer\obj\Debug\Window1.g.cs
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzer\obj\Debug\App.g.cs
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzer\obj\Debug\SpectrumAnalyzer_MarkupCompile.cache
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzer\obj\Debug\SpectrumAnalyzer.g.resources
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzer\obj\Debug\SpectrumAnalyzer.exe
+C:\Users\ErinandSam\Documents\GitHub\USBSpectrumAnalyzer\SpectrumAnalyzer\SpectrumAnalyzer\obj\Debug\SpectrumAnalyzer.pdb
